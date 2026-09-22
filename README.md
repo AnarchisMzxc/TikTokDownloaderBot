@@ -96,3 +96,4 @@ handlers/
   direct.py               # regular chat: link → buttons → download
   inline.py                # inline mode: query → options → chosen_inline_result → download
 ```
+Lucky!
